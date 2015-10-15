@@ -1,0 +1,9 @@
+{
+	"name": "ddot",
+	"description": "A DOT file IO wrapper",
+	"copyright": "Copyright © 2015 Dan Printzell",
+	"authors": ["wildn00b"],
+	"targetType": "library",
+	"dependencies": {
+	}
+}
